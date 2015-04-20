@@ -7,11 +7,12 @@
 
 ## Instructions
 
+
 A pretty important deli needs somebody to program the "Take a Number" feature for their counter.
 
 At the beginning of the day, the deli is empty and is represented by an empty array.
 
-Example: 
+Example:
 
 
 Write all of your code in `FISAppDelegate.m`.  All method signatures should be added to 'FISAppDelegate.h'.
